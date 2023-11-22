@@ -12,14 +12,14 @@ The key difference between low-fidelity and high-fidelity wireframes is that **l
 The common development phase usually consists of:
 
 <p>
-<a href="https://www.figma.com/community/file/1308282331258013242/week-3-website-hi-fi-wireframe?fbclid=IwAR3FF7XfZUOdgVlbsHBfZwuf3sr3b7uz5ma_l6swl7OiCYTbbXtNXXltvmU" target="_blank"><img src="https://github.com/xialuna/AWSCC-CodeQuest-UI-UX/assets/115876263/01c575af-4247-4ae4-9d2b-2d31cd533838" height="300" alt="Image Cover"/></a></p>
+<a href="https://www.figma.com/community/file/1308282331258013242/week-3-website-hi-fi-wireframe?fbclid=IwAR3FF7XfZUOdgVlbsHBfZwuf3sr3b7uz5ma_l6swl7OiCYTbbXtNXXltvmU" target="_blank"><img src="../../assets/tutorials/Day15.png" width="600" alt="Image Cover"/></a></p>
 
 The last part of the design phase is building the **HI-FI** layout. This is done to help teams validate the final product design, and avoid tricky fixes during the development process.
 
 -   **Translating lo-fi to hi-fi**:
     > Guide: [**_Lo-fi to Hi-fi Wireframe Tutorial_**](https://www.youtube.com/watch?v=UU_eyUGWIEI)
 
-Your task for the whole duration of Week 3 is to build an improved version of AlfBuddy's Website! So reflect on your learnings in Week 1 - 2 and let's start building projects🚀 
+Your task for the whole duration of Week 3 is to build an improved version of AlfBuddy's Website! So reflect on your learnings in Week 1 - 2 and let's start building projects🚀
 
 ## **About the Challenge:**
 
@@ -31,7 +31,7 @@ For Day 15, let's take things slowly and start by building the navigation bar!
 
 -   **Practical Exercises:** Design a navigation bar for Alfbuddy. Create interactive prototypes to test navigation usability. _(Prototype is optional)_
 
-    -   Learn More: [Rules in creating a navigation](https://bootcamp.uxdesign.cc/smooth-navigation-captivating-experience-a-ui-ux-design-guide-for-effective-layout-and-navigation-d7e20386f73a)
+    -   Learn More: [Rules when creating a navigation bar](https://bootcamp.uxdesign.cc/smooth-navigation-captivating-experience-a-ui-ux-design-guide-for-effective-layout-and-navigation-d7e20386f73a)
 
 **<h3>Situation</h3>**
 
@@ -55,7 +55,7 @@ You are tasked to create an **improved version** of AlfBuddy's old website and s
 
 > Visit <a href="" target="_blank">Week 3 [Day 15-22] : Hi-Fi Wireframe Website</a> in new tab and click on [**Open in Figma**].
 
-<a href="https://www.figma.com/community/file/1308282331258013242/week-3-website-hi-fi-wireframe?fbclid=IwAR3FF7XfZUOdgVlbsHBfZwuf3sr3b7uz5ma_l6swl7OiCYTbbXtNXXltvmU" target="_blank"><img src="https://github.com/xialuna/AWSCC-CodeQuest-UI-UX/assets/95476379/dcc18fc4-5eb9-45db-abb7-1f48332e5d7f" height="400" alt="Image Cover"/></a>
+<a href="https://www.figma.com/community/file/1308282331258013242/week-3-website-hi-fi-wireframe?fbclid=IwAR3FF7XfZUOdgVlbsHBfZwuf3sr3b7uz5ma_l6swl7OiCYTbbXtNXXltvmU" target="_blank"><img src="../../assets/thumbnails/Week3.png" width="600" alt="Image Cover"/></a>
 
 <br>
 

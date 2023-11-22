@@ -12,7 +12,7 @@ You are tasked to create the **mobile version** of the **PRODUCT CATEGORIES** ba
 
 > Go to your duplicated file of **Week 4: AlfBuddy Hi-Fi Wireframe [Mobile]** and continue where you have left off.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/xialuna/AWSCC-CodeQuest-UI-UX/assets/115876263/968afcf2-2802-4d9b-895a-61332c0fc0bf" alt="Instruction"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../assets/tutorials/../../../assets/tutorials/Day24.png" width="500" alt="Instruction"/>
 <br/>
 
 -   Create a **mobile version** of the PRODUCT CATEGORIES from the hi-fi wireframe layout you made on **days 15-22 [Week 3]**

@@ -32,7 +32,7 @@ You are tasked to create an **improved version** of AlfBuddy's old website and s
 
 > Go to your duplicated file of **Week 3 [Day 15-22] Hi-Fi Wireframe Website** by checking your recents and continue where you have left off.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/xialuna/AWSCC-CodeQuest-UI-UX/assets/115876263/1b1644b6-25bb-4edb-a00f-cc13a5d63955" alt="Instruction"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../assets/tutorials/../../../assets/tutorials/Day16.png" width="500" alt="Instruction"/>
 <br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Day 16: Hero Section**<br/>
