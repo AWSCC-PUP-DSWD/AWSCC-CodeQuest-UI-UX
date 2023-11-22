@@ -57,7 +57,7 @@ We encourage you to share your progress in [📈┊codequest-progress](https://d
 >- Learned how to navigate its interface
 >- Built a nice layout for Alf's Shop
 > 
->**Attachments**: _attached a screensot of final activity_(optional)
+>**Attachments**: _attached a screenshot of the final activity_(optional)
 
 To finish our **CodeQuest: 30 Days of UI/UX**, you need to submit **3** projects for your completion to be acknowledged and for you to get the **CERTIFICATE**:
 
