@@ -1,6 +1,6 @@
 **<h1 align="center">30 Days of UI/UX: Activities</h1>**
 
-<img align="right" width="200px" src="https://github.com/xialuna/30-Days-of-UI-UX/assets/95476379/6d19bbad-947e-4d11-b125-b951e51fce49">
+<img align="right" width="200px" src="../assets/alf/alf-smile-waving.png">
 
 **Are you ready to embark on a 30-day journey that promises to take your UI/UX skills to new heights?**
 

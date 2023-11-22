@@ -20,7 +20,7 @@ This repository contains the following **main** folders:
 
 2. [**submissions folder**](submissions/README.md): includes two subfolders for exercises and projects, each containing markdown files that participants will modify to include their outputs or creations, such as UI/UX analyses and Figma links. 
     - [**exercises subfolder**](submissions/exercises): specifically for daily activities with the purpose of practicing what you've learned, which are **not required** for the certificate of completion but is **advisable to complete** them.
-    - [**final-projects subfolder**](submissions/final%20projects/): specifically for final projects, which are **required** for the certificate of completion. 
+    - [**final-projects subfolder**](submissions/final-projects/): specifically for final projects, which are **required** for the certificate of completion. 
 
 > [!IMPORTANT]
 > Take your time to read the readme files in these folders for important instructions and a handy outline to guide you.
@@ -65,9 +65,9 @@ To finish our **CodeQuest: 30 Days of UI/UX**, you need to submit **3** projects
     ├── submissions
     │   ├── ...
     │   ├── final-projects  
-    │   └── ...  ├── day12-14.md  # **lo-fi wireframe layout**
-    └── ...      ├── day15-22.md  # **website hi-fi wireframe**
-                 └── day23-30.md  # **mobile hi-fi wireframe**
+    │   └── ...  ├── day12-14.md  # lo-fi wireframe layout
+    └── ...      ├── day15-22.md  # website hi-fi wireframe
+                 └── day23-30.md  # mobile hi-fi wireframe
 
 > Note: Daily lessons may not be mandatory, and submitting daily exercises/challenges is optional, but it is highly encouraged to complete them in order to learn effectively and track your progress each day until the end of the 30-day period.
 

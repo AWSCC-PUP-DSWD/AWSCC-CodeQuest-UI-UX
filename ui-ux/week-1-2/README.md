@@ -1,6 +1,6 @@
 # 🚀 **30 Days of UI/UX Adventure: Weeks 1-2** 🚀
 
-<img align="right" width="200px" src="https://github.com/xialuna/AWSCC-CodeQuest-UI-UX/assets/95476379/35923bcf-1b5a-4094-adbb-4bf2055b2c8d">
+<img align="right" width="200px" src="../../assets/alf/alf-alien.png">
 
 🌟 Welcome to the enchanting **WEEKS 1-2** of your **UI/UX adventure**!
 

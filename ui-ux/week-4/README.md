@@ -2,7 +2,7 @@
 
 🌟 Welcome to the enchanting **WEEK 4** of your **UI/UX adventure**!
 
-<img align="right" width="200px" src="https://github.com/xialuna/AWSCC-CodeQuest-UI-UX/assets/95476379/35923bcf-1b5a-4094-adbb-4bf2055b2c8d">
+<img align="right" width="200px" src="../../assets/alf/alf-alien.png">
 
 Building on the foundation laid in week 3, get ready to take your skills to the next level as we delve into the realm of mobile design. 📲 Alf, your unwavering companion, is prepared to guide you through the process of adapting your hi-fi website wireframe to a mobile-friendly version. ૮꒰˶˘ ³ ˘˶꒱ა
 

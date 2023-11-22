@@ -2,7 +2,7 @@
 
 🌟 Welcome to the enchanting **WEEK 3** of your **UI/UX adventure**!
 
-<img align="right" width="200px" src="https://github.com/xialuna/AWSCC-CodeQuest-UI-UX/assets/95476379/35923bcf-1b5a-4094-adbb-4bf2055b2c8d">
+<img align="right" width="200px" src="../../assets/alf/alf-alien.png">
 
 As we transition from theory to practice, get ready to apply the enchanting knowledge gained in weeks 1-2. Alf, your trusty guide, is geared up to accompany you through the exciting journey of turning concepts into reality. ✨
 

@@ -1,6 +1,6 @@
 **<h1 align="center">30 Days of UI/UX: Submission</h1>**
 
-<img align="right" width="200px" src="https://github.com/xialuna/30-Days-of-UI-UX/assets/95476379/6d19bbad-947e-4d11-b125-b951e51fce49">
+<img align="right" width="200px" src="../assets/alf/alf-smilesuper-waving.png">
 
 **Immerse yourself in the world where a splash of creativity can redefine the way we experience digital interfaces.**
 
