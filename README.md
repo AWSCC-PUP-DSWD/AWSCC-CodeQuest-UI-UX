@@ -33,9 +33,9 @@ This repository contains the following **main** folders:
 
 | | | | | |
 | - | - | - | - | - |
-|<div align='center'><a href='ui-ux/week-1-2/day01.md'><img src='table/assets/1.png' alt='Introduction to UI/UX' width='140px'/></a><h4 align='center'><a href='ui-ux/week-1-2/day01.md'>Introduction <br>to UI/UX</a></h4></div> |<div align='center'><a href='ui-ux/week-1-2/day02.md'><img src='table/assets/2.png' alt='Figma Basics' width='140px'/></a><h4 align='center'><a href='ui-ux/week-1-2/day02.md'>Figma Basics</a></h4></div> |<div align='center'><a href='ui-ux/week-1-2/day03.md'><img src='table/assets/3.png' alt='Design Principles' width='140px'/></a><h4 align='center'><a href='ui-ux/week-1-2/day03.md'>Design <br>Principles</a></h4></div> |<div align='center'><a href='ui-ux/week-1-2/day04.md'><img src='table/assets/4.png' alt='Design Components' width='140px'/></a><h4 align='center'><a href='ui-ux/week-1-2/day04.md'>Design <br>Components</a></h4></div> |<div align='center'><a href='ui-ux/week-1-2/day05.md'><img src='table/assets/5.png' alt='Figma Advance' width='140px'/></a><h4 align='center'><a href='ui-ux/week-1-2/day05.md'>Figma Advance</a></h4></div> 
-|<div align='center'><a href='ui-ux/week-1-2/day06.md'><img src='table/assets/6.png' alt='Prototyping' width='140px'/></a><h4 align='center'><a href='ui-ux/week-1-2/day06.md'>Prototyping</a></h4></div> |<div align='center'><a href='ui-ux/week-1-2/day07.md'><img src='table/assets/7.png' alt='Low-Fidelity Wireframe' width='140px'/></a><h4 align='center'><a href='ui-ux/week-1-2/day07.md'>Low-Fidelity <br>Wireframe</a></h4></div> |<div align='center'><a href='ui-ux/week-1-2/day08.md'><img src='table/assets/8.png' alt='Design Sprint: Empathize' width='140px'/></a><h4 align='center'><a href='ui-ux/week-1-2/day08.md'>Design Sprint: <br>Empathize</a></h4></div> |<div align='center'><a href='ui-ux/week-1-2/day09.md'><img src='table/assets/9.png' alt='Design Sprint: Define' width='140px'/></a><h4 align='center'><a href='ui-ux/week-1-2/day09.md'>Design Sprint:<br> Define</a></h4></div> |<div align='center'><a href='ui-ux/week-1-2/day10.md'><img src='table/assets/10.png' alt='Competitor Analysis' width='140px'/></a><h4 align='center'><a href='ui-ux/week-1-2/day10.md'>Competitor Analysis</a></h4></div> |
-|<div align='center'><a href='ui-ux/week-1-2/day11.md'><img src='table/assets/11.png' alt='Design Sprint: Ideate' width='140px'/></a><h4 align='center'><a href='ui-ux/week-1-2/day11.md'>Design Sprint:<br>Ideate</a></h4></div> |<div align='center'><a href='ui-ux/week-1-2/day12-14.md'><img src='table/assets/12.png' alt='Lo-Fi Wireframe Layout' width='140px'/></a><h4 align='center'><a href='ui-ux/week-1-2/day12-14.md'>Lo-Fi Wireframe <br>Website [Project]</a></h4></div> |<div align='center'><a href='ui-ux/week-3/README.md'><img src='table/assets/13.png' alt='Hi-Fi Wireframe Website' width='140px'/></a><h4 align='center'><a href='ui-ux/week-3/README.md'>Hi-Fi Wireframe <br>Website [Project]</a></h4></div> |<div align='center'><a href='ui-ux/week-4/README.md'><img src='table/assets/14.png' alt='Hi-Fi Wireframe Mobile' width='140px'/></a><h4 align='center'><a href='ui-ux/week-4/README.md'>Hi-Fi Wireframe <br>Mobile [Project]</a></h4></div> |
+|<div align='center'><a href='ui-ux/week-1-2/day01.md'><img src='assets/table/1.png' alt='Introduction to UI/UX' width='140px'/></a><h4 align='center'><a href='ui-ux/week-1-2/day01.md'>Introduction <br>to UI/UX</a></h4></div> |<div align='center'><a href='ui-ux/week-1-2/day02.md'><img src='assets/table/2.png' alt='Figma Basics' width='140px'/></a><h4 align='center'><a href='ui-ux/week-1-2/day02.md'>Figma Basics</a></h4></div> |<div align='center'><a href='ui-ux/week-1-2/day03.md'><img src='assets/table/3.png' alt='Design Principles' width='140px'/></a><h4 align='center'><a href='ui-ux/week-1-2/day03.md'>Design <br>Principles</a></h4></div> |<div align='center'><a href='ui-ux/week-1-2/day04.md'><img src='assets/table/4.png' alt='Design Components' width='140px'/></a><h4 align='center'><a href='ui-ux/week-1-2/day04.md'>Design <br>Components</a></h4></div> |<div align='center'><a href='ui-ux/week-1-2/day05.md'><img src='assets/table/5.png' alt='Figma Advance' width='140px'/></a><h4 align='center'><a href='ui-ux/week-1-2/day05.md'>Figma Advance</a></h4></div> 
+|<div align='center'><a href='ui-ux/week-1-2/day06.md'><img src='assets/table/6.png' alt='Prototyping' width='140px'/></a><h4 align='center'><a href='ui-ux/week-1-2/day06.md'>Prototyping</a></h4></div> |<div align='center'><a href='ui-ux/week-1-2/day07.md'><img src='assets/table/7.png' alt='Low-Fidelity Wireframe' width='140px'/></a><h4 align='center'><a href='ui-ux/week-1-2/day07.md'>Low-Fidelity <br>Wireframe</a></h4></div> |<div align='center'><a href='ui-ux/week-1-2/day08.md'><img src='assets/table/8.png' alt='Design Sprint: Empathize' width='140px'/></a><h4 align='center'><a href='ui-ux/week-1-2/day08.md'>Design Sprint: <br>Empathize</a></h4></div> |<div align='center'><a href='ui-ux/week-1-2/day09.md'><img src='assets/table/9.png' alt='Design Sprint: Define' width='140px'/></a><h4 align='center'><a href='ui-ux/week-1-2/day09.md'>Design Sprint:<br> Define</a></h4></div> |<div align='center'><a href='ui-ux/week-1-2/day10.md'><img src='assets/table/10.png' alt='Competitor Analysis' width='140px'/></a><h4 align='center'><a href='ui-ux/week-1-2/day10.md'>Competitor Analysis</a></h4></div> |
+|<div align='center'><a href='ui-ux/week-1-2/day11.md'><img src='assets/table/11.png' alt='Design Sprint: Ideate' width='140px'/></a><h4 align='center'><a href='ui-ux/week-1-2/day11.md'>Design Sprint:<br>Ideate</a></h4></div> |<div align='center'><a href='ui-ux/week-1-2/day12-14.md'><img src='assets/table/12.png' alt='Lo-Fi Wireframe Layout' width='140px'/></a><h4 align='center'><a href='ui-ux/week-1-2/day12-14.md'>Lo-Fi Wireframe <br>Website [Project]</a></h4></div> |<div align='center'><a href='ui-ux/week-3/README.md'><img src='assets/table/13.png' alt='Hi-Fi Wireframe Website' width='140px'/></a><h4 align='center'><a href='ui-ux/week-3/README.md'>Hi-Fi Wireframe <br>Website [Project]</a></h4></div> |<div align='center'><a href='ui-ux/week-4/README.md'><img src='assets/table/14.png' alt='Hi-Fi Wireframe Mobile' width='140px'/></a><h4 align='center'><a href='ui-ux/week-4/README.md'>Hi-Fi Wireframe <br>Mobile [Project]</a></h4></div> |
 
 ---
 
@@ -81,22 +81,22 @@ Use this template to create your own repository with existing directory structur
 
 1. On GitHub.com, navigate to the main page of this repository and click the **`Use this template`** button.
 
-    ![1](https://github.com/xialuna/30-Days-of-UI-UX/assets/95476379/39ed24cb-92c8-43b9-93a4-4e377d92f24a)
+    ![1](assets/table/get-started-1.png)
 
 2. Name it with the same name as this repository (*AWSCC-CodeQuest-UI-UX*), and make it **public**.
    > ***NOTE***: The repository name should be in the format of **AWSCC-CodeQuest-UI-UX** (Do not copy exactly the same name as in the image below) 
 
-   ![2](https://github.com/xialuna/30-Days-of-UI-UX/assets/95476379/048b9454-7613-420f-b157-5e96eadc9c90)
+   ![2](assets/table/get-started-2.png)
 
 3. On the lower right, click **`Create repository`**.
 
-    ![3](https://github.com/xialuna/30-Days-of-UI-UX/assets/95476379/e799ba6e-bcbf-4c94-9944-52d928db749e)
+    ![3](assets/table/get-started-3.png)
 
    and it should generate the repository in your account.
 
    > ***NOTE***: The repository name should be in the format of **AWSCC-CodeQuest-UI-UX** (Do not copy exactly the same name as in the image below) 
 
-    ![4](https://github.com/xialuna/30-Days-of-UI-UX/assets/95476379/56917934-e99b-466b-96ae-325066c35549)
+    ![4](assets/table/get-started-4.png)
 
 4. After creating a repository, copy the repository URL and paste it in our **[CodeQuest Tracker Sheet](https://docs.google.com/spreadsheets/d/1OsXL63ei1HblY7-gXD8uMbSoWdZJlD02mTbrjvcSsNo/edit#gid=0)** in your corresponding row.
 
@@ -104,11 +104,11 @@ Use this template to create your own repository with existing directory structur
 
 5. Finally, clone the repository by clicking the **`Code`** button on the top right side of the repository's main page and clicking the **`Open with GitHub Desktop`** button to redirect to your GitHub Desktop application.
 
-    ![5](https://github.com/xialuna/30-Days-of-UI-UX/assets/95476379/5089971b-82f4-445f-98e1-8d150267d27c)
+    ![5](assets/table/get-started-5.png)
 
 6. And just click the **`Clone`** button to clone it to your computer.
 
-    ![6](https://github.com/xialuna/30-Days-of-UI-UX/assets/95476379/ddf10f21-c1fc-40a7-9959-be083b34b3e5)
+    ![6](assets/table/get-started-6.png)
 
 <br>
 
@@ -116,7 +116,7 @@ Use this template to create your own repository with existing directory structur
 ## 🌟 Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-| <a href='https://github.com/xialuna'><img src='https://github.com/xialuna/AWSCC-CodeQuest-UI-UX/assets/115876263/06592776-635a-4800-9ed5-e1fc26124e29' width='140px;'/><h4 align='center'><a href='https://github.com/xialuna'>Xian Cheng</a></h4> | <a href='https://github.com/xmuwisa'><img src='https://github.com/xialuna/AWSCC-CodeQuest-UI-UX/assets/115876263/c937b809-1083-4ecb-8b82-44ae242af9c7' width='140px;'/><h4 align='center'><a href='https://github.com/xmuwisa'>Luisa Eustaquio</a></h4> | <a href='https://github.com/akhimverona'><img src='https://github.com/xialuna/AWSCC-CodeQuest-UI-UX/assets/115876263/546c74d0-9838-468e-9670-0dba5013bd54' width='140px;'/><h4 align='center'><a href='https://github.com/akhimverona'>Khim Verona</a></h4> | <a href='https://github.com/eimikiii'><img src='https://github.com/xialuna/AWSCC-CodeQuest-UI-UX/assets/115876263/489d3a28-4b67-4b04-bc10-a781b61584c4' width='140px;'/><h4 align='center'><a href='https://github.com/eimikiii'>Mikyla Angala</a></h4> |
+| <a href='https://github.com/xialuna'><img src='assets/contributors/xia.png' width='140px;'/><h4 align='center'><a href='https://github.com/xialuna'>Xian Cheng</a></h4> | <a href='https://github.com/xmuwisa'><img src='assets/contributors/iza.png' width='140px;'/><h4 align='center'><a href='https://github.com/xmuwisa'>Luisa Eustaquio</a></h4> | <a href='https://github.com/akhimverona'><img src='assets/contributors/khim.png' width='140px;'/><h4 align='center'><a href='https://github.com/akhimverona'>Khim Verona</a></h4> | <a href='https://github.com/eimikiii'><img src='assets/contributors/miky.png' width='140px;'/><h4 align='center'><a href='https://github.com/eimikiii'>Mikyla Angala</a></h4> |
 | :---: | :---: | :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
