@@ -17,9 +17,9 @@ As the lead designer, you're tasked with generating features and functionalities
 
 ### 📋 Instructions
 
-1. Go to your figma homepage and check recents, find the file for **Week 2 [day 8 - 11] : Activities** <br/> <br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../../assets/tutorials/Day9-11-instruc-step1.png" alt="Instruction"/>
-   <br/>
+1. Go to your figma homepage and check recents, find the file for **Week 2 [day 8 - 11] : Activities** <br/><br/>
+<img src="../../assets/tutorials/Day9-11-instruc-step1.png" alt="Instruction"/>
+<br/>
 
 2. Check the day you're in in the pages section. Today is **Day 11**, so make sure you're on day 11 page section in figma.
 

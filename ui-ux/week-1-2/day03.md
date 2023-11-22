@@ -11,7 +11,7 @@ Learn more about **C.R.A.P** design principles by visiting <a href="https://www.
 
 -   Note: Right click and open it in a new tab
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com/community/file/1308155740291715507/awscc-ui-ux-c-r-a-p-design-principles" target="_blank" "><img src="../../assets/thumbnails/Day3.png" height="400" alt="Image Cover"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com/community/file/1308155740291715507/awscc-ui-ux-c-r-a-p-design-principles" target="_blank" "><img src="../../assets/thumbnails/Day3.png" width="500" alt="Image Cover"/></a>
 </p>
 
 <br/>
@@ -39,7 +39,7 @@ Evaluate and choose the preferred UI design by considering its adherence to the 
 
 -   Visit <a href="https://www.figma.com/community/file/1308267154487897637/week-1-day-3-activity" target="_blank">Week 1 [Day 3] : Activity</a> and click on [**Open in Figma**].
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com/community/file/1308155740291715507/awscc-ui-ux-c-r-a-p-design-principles" target="_blank"><img src="../../assets/thumbnails/Day3_2.png" height="400" alt="Image Cover"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com/community/file/1308155740291715507/awscc-ui-ux-c-r-a-p-design-principles" target="_blank"><img src="../../assets/thumbnails/Day3_2.png" width="500" alt="Image Cover"/></a>
 
 -   You'll discover shooting target icons, which you'll drag, drop, and resize onto your preferred UI while adhering to the principles of C.R.A.P. (Contrast, Repetition, Alignment, and Proximity).
     <br><br>

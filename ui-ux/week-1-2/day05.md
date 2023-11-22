@@ -25,13 +25,13 @@ As you progress in your UI/UX design journey, mastering advanced features in Fig
 
     - Note: Right click and open it in a new tab
         <p>
-        <a href="https://www.figma.com/community/file/1306705100729931279/awscc-figma-workshop-advance" target="\_blank"><img src="../../assets/thumbnails/Day5.png" height="400" alt="Image Cover"/></a>
+        <a href="https://www.figma.com/community/file/1306705100729931279/awscc-figma-workshop-advance" target="\_blank"><img src="../../assets/thumbnails/Day5.png" width="500" alt="Image Cover"/></a>
         </p>
         <br/>
 
 2. Click on the **"Open in Figma"** button. This will duplicate the file on your figma account.<br/><br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../../assets/tutorials/open-in-figma.png" alt="Instruction"/>
-   <br/>
+<img src="../../assets/tutorials/open-in-figma.png" alt="Instruction"/>
+<br/>
 
 3. Enjoy exploring the figma workspace ~
 

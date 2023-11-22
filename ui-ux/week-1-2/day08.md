@@ -57,7 +57,7 @@ The first step in any design sprint is to understand the problem from the user's
 
 **Empathy Mapping** focuses on identifying key themes and issues affecting users based on their quotes, actions, behaviors, and feelings captured throughout user research and expert interviews. If you’re a UX researcher, common practice is to have one empathy map per customer persona.
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../../assets/tutorials/Day8-pic2.png" height="300" alt="Design Sprint"/></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../../assets/tutorials/Day8-pic2.png" width="500" alt="Design Sprint"/></p>
 
 -   **Says:** When doing an interview, this is where the overall quotes from the different users is gathered
 
@@ -81,18 +81,17 @@ Your goal today is to harness the power of empathy. By creating detailed User Pe
 
 ### 📋 Instructions
 
-1. Open the provided link: [Week 2 [day 8 - 11] : Activity Workspace](https://www.figma.com/community/file/1307726958398843883/week-2-day-8-11-activities) _(If prompted, log in to your Figma account.)_
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com/community/file/1307726958398843883/week-2-day-8-11-activities target="_blank" "><img src="../../assets/thumbnails/Day8-11.png" height="400" alt="Week 2 Day 8-11 image link"/></a>
-</p>
+1. Open the provided link: [Week 2 [day 8 - 11] : Activity Workspace](https://www.figma.com/community/file/1307726958398843883/week-2-day-8-11-activities) _(If prompted, log in to your Figma account.)<br/><br/>
+<a href="https://www.figma.com/community/file/1307726958398843883/week-2-day-8-11-activities" target="_blank"><img src="../../assets/thumbnails/Day8-11.png" width="500" alt="Week 2 Day 8-11 image link"/></a>
+
 <br/>
 
 2. Click on the **"Open in Figma"** button. This will duplicate the file on your figma account.<br/><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../../assets/tutorials/open-in-figma.png" alt="Instruction"/>
+<img src="../../assets/tutorials/open-in-figma.png" alt="Instruction"/>
 <br/> 
 
 3.  Check the day you're in in the pages section. Today is **Day 08**, so make sure you're on day 08 page section in figma.<br/><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="../../assets/tutorials/Day8-pic3-instruc-step3.png" alt="Instruction"/>
+<img src="../../assets/tutorials/Day8-pic3-instruc-step3.png" alt="Instruction"/>
 
 ## Show off your work!
 

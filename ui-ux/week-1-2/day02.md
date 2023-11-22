@@ -39,13 +39,13 @@ You are an aspiring UI/UX designer about to embark on the exciting journey into 
 
     - Note: Right click and open it in a new tab
         <p>
-        <a href="https://www.figma.com/community/file/1306702678560541195/awscc-figma-workshop-basics" target="_blank"><img src="../../assets/thumbnails/Day2.png" height="400" alt="Image Cover"/></a>
+        <a href="https://www.figma.com/community/file/1306702678560541195/awscc-figma-workshop-basics" target="_blank"><img src="../../assets/thumbnails/Day2.png" width="500" alt="Image Cover"/></a>
         </p>
         <br/>
 
 2. Click on the **"Open in Figma"** button. This will duplicate the file on your figma account.<br/><br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../../assets/tutorials/open-in-figma.png" alt="Instruction"/>
-   <br/>
+<img src="../../assets/tutorials/open-in-figma.png" alt="Instruction"/>
+<br/>
 
 3. Enjoy exploring the figma workspace ~
 

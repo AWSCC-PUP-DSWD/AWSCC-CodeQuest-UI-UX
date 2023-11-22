@@ -22,13 +22,13 @@ The challenge focuses on the ability to analyze and make appropriate decisions w
 
     - Note: Right click and open it in a new tab
       <p>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com/community/file/1308706627963958604/week-1-day-4-design-components" target="\_blank"><img src="../../assets/thumbnails/Day4.png" height="400" alt="Image Cover"/></a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com/community/file/1308706627963958604/week-1-day-4-design-components" target="\_blank"><img src="../../assets/thumbnails/Day4.png" width="500" alt="Image Cover"/></a>
       </p>
       <br/>
 
 2. Click on the **"Open in Figma"** button. This will duplicate the file on your figma account.<br/><br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../../assets/tutorials/open-in-figma.png" alt="Instruction"/>
-   <br/>
+<img src="../../assets/tutorials/open-in-figma.png" alt="Instruction"/>
+<br/>
 
 3. Enjoy exploring the figma workspace ~
 

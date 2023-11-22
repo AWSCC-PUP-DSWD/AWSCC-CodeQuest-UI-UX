@@ -39,11 +39,11 @@ Today, your task is to conduct a Competitor Analysis to gain insights into the s
 ### 📋 Instructions
 
 1. Go to your figma homepage and check recents, find the file for **Week 2 [day 8 - 11] : Activities** <br/> <br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../../assets/tutorials/Day9-11-instruc-step1.png" alt="Instruction"/>
-   <br/>
+<img src="../../assets/tutorials/Day9-11-instruc-step1.png" alt="Instruction"/>
+<br/>
 
 2. Check the day you're in in the pages section. Today is **Day 10**, so make sure you're on day 10 page section in figma.<br/> <br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../../assets/tutorials/Day10-instruc-step3.png" alt="Instruction"/>
+<img src="../../assets/tutorials/Day10-instruc-step3.png" alt="Instruction"/>
    
 ## Show off your work!</h3>
 
