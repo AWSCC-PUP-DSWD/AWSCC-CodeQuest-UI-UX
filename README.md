@@ -13,17 +13,17 @@ So, are you prepared to dive into this 30-day design party with us? Let's embark
 
 This repository contains the following **main** folders:
 
-1. [**ui-ux folder**](ui-ux/README.md): includes three subfolders for weeks 1-2, week 3, and week 4, each containing markdown files with lessons and instructions for exercises and projects, organized by day as outlined for 30 Days of UI/UX.
-    - [**week-1-2 folder**](ux/week-1-2/README.md): contains the markdown files for **day 1-22**, with day 1-11 serving as exercises and days 12-14 as one of the three required projects. 
-    - [**week-3 folder**](ui-ux/week-3/README.md): contains the markdown files for **day 15-22**, representing one of the three required projects. 
-    - [**week-4 folder**](ui-ux/week-4/README.md): contains the markdown files for **day 23-30**, representing one of the three required projects. 
+1. [**ui-ux folder**](ui-ux/README.md): main folder where the workshop will take place. In here you will see files that contains the tutorials and activites assigned for each day.
+    - [**week-1-2 folder**](ux/week-1-2/README.md): contains the markdown files for **day 1-22**, with day 1-11 serving as exercises and days 12-14 as the required project. 
+    - [**week-3 folder**](ui-ux/week-3/README.md): contains the markdown files for **day 15-22**, representing one of the required projects. 
+    - [**week-4 folder**](ui-ux/week-4/README.md): contains the markdown files for **day 23-30**, representing one of the required projects. 
 
-2. [**submissions folder**](submissions/README.md): includes two subfolders for exercises and projects, each containing markdown files that participants will modify to include their outputs or creations, such as UI/UX analyses and Figma links. 
-    - [**exercises subfolder**](submissions/exercises): specifically for daily activities with the purpose of practicing what you've learned, which are **not required** for the certificate of completion but is **advisable to complete** them.
-    - [**final-projects subfolder**](submissions/final-projects/): specifically for final projects, which are **required** for the certificate of completion. 
+2. [**submissions folder**](submissions/README.md): contains markdown files that participants will modify to include their outputs or figma links. 
+    - [**exercises subfolder**](submissions/exercises): for daily activities with the purpose of practicing what you've learned, which are **not required** for the certificate of completion but is **advisable to complete** them.
+    - [**final-projects subfolder**](submissions/final-projects/): for final projects, which are **required** for the certificate of completion. 
 
 > [!IMPORTANT]
-> Take your time to read the readme files in these folders for important instructions and a handy outline to guide you.
+> Take your time to read the README files in these folders for important instructions and a handy outline to guide you.
 
 <br>
 
