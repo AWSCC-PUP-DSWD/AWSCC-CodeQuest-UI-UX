@@ -1,4 +1,4 @@
-![banner](https://github.com/xialuna/AWSCC-CodeQuest-UI-UX/assets/95476379/293fd335-63a0-4f0a-84b3-d8079b48cee4)
+![banner](assets/table/codequest-ui-ux-banner.png)
 
 
 <h1 align="center">🚀 30 Days of UI/UX 🚀</h1>
