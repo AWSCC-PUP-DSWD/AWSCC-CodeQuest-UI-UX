@@ -14,7 +14,7 @@ The process of understanding the user to get insights on how to improve their us
 
     #### 5 Phases:
  
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/xialuna/30-Days-of-UI-UX/assets/115876263/5a0120cc-4c2a-4426-89c2-36923d451d99" height="300" alt="Design Sprint"/></p></br>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../../assets/tutorials/Day8-pic1.png" height="300" alt="Design Sprint"/></p></br>
 
   - **Empathize** - understand who your users are and what they need.
   - **Define** - define the user problem you want to solve based on the empathy phase.
@@ -57,7 +57,7 @@ The first step in any design sprint is to understand the problem from the user's
 
 **Empathy Mapping** focuses on identifying key themes and issues affecting users based on their quotes, actions, behaviors, and feelings captured throughout user research and expert interviews. If you’re a UX researcher, common practice is to have one empathy map per customer persona.
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/xialuna/30-Days-of-UI-UX/assets/115876263/45dc7f4c-5b2c-4f9d-a6fc-4c21ab525d55" height="300" alt="Design Sprint"/></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../../assets/tutorials/Day8-pic2.png" height="300" alt="Design Sprint"/></p>
 
 -   **Says:** When doing an interview, this is where the overall quotes from the different users is gathered
 
@@ -83,21 +83,20 @@ Your goal today is to harness the power of empathy. By creating detailed User Pe
 
 1. Open the provided link: [Week 2 [day 8 - 11] : Activity Workspace](https://www.figma.com/community/file/1307726958398843883/week-2-day-8-11-activities) _(If prompted, log in to your Figma account.)_
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com/community/file/1307726958398843883/week-2-day-8-11-activities target="_blank" "><img src="https://github.com/xialuna/30-Days-of-UI-UX/assets/115876263/b4068196-f328-40cd-9d9d-b84e6d7b2d9e" height="400" alt="Week 2 Day 8-11 image link"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com/community/file/1307726958398843883/week-2-day-8-11-activities target="_blank" "><img src="../../assets/thumbnails/Day8-11.png" height="400" alt="Week 2 Day 8-11 image link"/></a>
 </p>
 <br/>
 
 2. Click on the **"Open in Figma"** button. This will duplicate the file on your figma account.<br/><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/xialuna/30-Days-of-UI-UX/assets/115876263/a5931d4f-4a9c-463a-b7ab-d1aee7cffe47" alt="Instruction"/>
-<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../../assets/tutorials/open-in-figma.png" alt="Instruction"/>
+<br/> 
 
-3.  Check they day you're in in the pages section
-Today is **Day 08**, so make sure you're on day 08 page section in figma<br/><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/xialuna/30-Days-of-UI-UX/assets/115876263/f177c2ff-eb0a-4125-94f9-7b4ad986549c" alt="Instruction"/>
+3.  Check the day you're in in the pages section. Today is **Day 08**, so make sure you're on day 08 page section in figma.<br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="../../assets/tutorials/Day8-pic3-instruc-step3.png" alt="Instruction"/>
 
 ## Show off your work!
 
-Submit your work here _(just paste the link of the figma file you've made)_ : <a href="../../submissions/exercises/day08-11.md" target="_blank">../../submissions/exercises/day08-11.md</a>
+Submit your work here _(just paste the link of the figma file you've made)_: <a href="../../submissions/exercises/day08-11.md" target="_blank">../../submissions/exercises/day08-11.md</a>
 
 ## Resources
 > [**Design Sprint**](https://uxplanet.org/whats-a-design-sprint-and-why-is-it-important-f7b826651e09)

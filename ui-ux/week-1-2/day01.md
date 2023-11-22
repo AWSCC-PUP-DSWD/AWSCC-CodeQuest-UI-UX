@@ -6,7 +6,7 @@
 Ever notice how some apps just look sleek and enticing? That's UI at work—the color palette, buttons, and overall aesthetics that make the website/app looks visually appealing.
 
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/xialuna/AWSCC-CodeQuest-UI-UX/assets/115876263/0e0c59b3-4fd3-45c4-90eb-665687445e72" height="300" alt="User Interface"/></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../../assets/tutorials/day1-pic1.png" height="300" alt="User Interface"/></p>
 
 ### **User Experience[UX]**
 
@@ -17,7 +17,7 @@ Now, **UX** is the complete experience of a user after using the product. It car
     - Does the (digital) product meet these needs?
 
 #### Example in real life: UI VS. UX
-<img src="https://github.com/xialuna/AWSCC-CodeQuest-UI-UX/assets/115876263/106bc12a-40df-4e6a-83a2-032f8ed09dde"  height="400"/> <br>
+<img src="../../assets/tutorials/Day1-pic2.png"  height="400"/> <br>
 
 > **_Learn More:_** [_Introduction to UX and UI Design_](https://bootcamp.uxdesign.cc/basic-introduction-to-user-experience-and-user-interface-design-f0aae08a2b44)
 

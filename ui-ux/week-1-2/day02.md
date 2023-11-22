@@ -39,12 +39,12 @@ You are an aspiring UI/UX designer about to embark on the exciting journey into 
 
     - Note: Right click and open it in a new tab
         <p>
-        <a href="https://www.figma.com/community/file/1306702678560541195/awscc-figma-workshop-basics" target="_blank"><img src="https://github.com/xialuna/AWSCC-CodeQuest-UI-UX/assets/115876263/4e361bc3-094a-4659-9a46-94250cedf26f" height="400" alt="Image Cover"/></a>
+        <a href="https://www.figma.com/community/file/1306702678560541195/awscc-figma-workshop-basics" target="_blank"><img src="../../assets/thumbnails/Day2.png" height="400" alt="Image Cover"/></a>
         </p>
         <br/>
 
 2. Click on the **"Open in Figma"** button. This will duplicate the file on your figma account.<br/><br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/xialuna/30-Days-of-UI-UX/assets/115876263/a5931d4f-4a9c-463a-b7ab-d1aee7cffe47" alt="Instruction"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../../assets/tutorials/open-in-figma.png" alt="Instruction"/>
    <br/>
 
 3. Enjoy exploring the figma workspace ~

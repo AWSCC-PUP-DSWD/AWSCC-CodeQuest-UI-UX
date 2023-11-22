@@ -33,7 +33,7 @@ Pain points are areas in the user interface (UI) that cause frustration or diffi
 
 -   related to the usability of a product or service, such as difficulty navigating the website, slow loading times, or confusing navigation menus.<br/>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/xialuna/30-Days-of-UI-UX/assets/115876263/5cfa19e8-5fda-43cb-b539-d2cd752b09da" height="180" alt="Alt Text"/></p></br><br/>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../../assets/tutorials/Day9-pic1.png" height="180" alt="Alt Text"/></p></br><br/>
 
 ## 📈 Defining Success Metrics:
 
@@ -45,7 +45,7 @@ To measure the success of your Design Sprint, it's essential to establish clear 
 
 **How to define user needs:**
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/xialuna/30-Days-of-UI-UX/assets/115876263/d210c18b-0231-4e98-bdc0-315f319c2936" height="300" alt="Alt Text"/></p></br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../../assets/tutorials/Day9-pic2.png" height="300" alt="Alt Text"/></p></br>
 
 ##
 
@@ -64,16 +64,15 @@ Today, your objective is to dive into the AlfBuddy website itself. By identifyin
 ### 📋 Instructions
 
 1. Go to your figma homepage and check recents, find the file for **Week 2 [day 8 - 11] : Activities** <br/> <br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/xialuna/30-Days-of-UI-UX/assets/115876263/3ab62a8e-af79-49d2-9aed-b20fb8be0274" alt="Instruction"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../../assets/tutorials/Day9-11-instruc-step1.png" alt="Instruction"/>
    <br/>
 
-2. Check they day you're in in the pages section
-   Today is **Day 09**, so make sure you're on day 09 page section in figma<br/><br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/xialuna/30-Days-of-UI-UX/assets/115876263/5f877192-ead0-4c78-8164-f5d9013116a4" alt="Instruction"/>
+2. Check they day you're in in the pages section. Today is **Day 09**, so make sure you're on day 09 page section in figma<br/><br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="../../assets/tutorials/Day9-instruc-step3.png" alt="Instruction"/>
 
 ## Show off your work!
 
-Submit your work here _(just paste the link of the figma file you've made)_ : <a href="../../submissions/exercises/day08-11.md" target="_blank">../../submissions/exercises/day08-11.md</a>
+Submit your work here _(just paste the link of the figma file you've made)_: <a href="../../submissions/exercises/day08-11.md" target="_blank">../../submissions/exercises/day08-11.md</a>
 
 ## Resources
 > [**How to write a problem statement**](https://careerfoundry.com/en/blog/ux-design/problem-statement-ux/)

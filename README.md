@@ -41,9 +41,9 @@ This repository contains the following **main** folders:
 
 ### ✉️ Submissions
 
-**CodeQuest** is made to provide participants an immersive, hands-on coding experience by guiding them through the creation of small projects. Every day of CodeQuest contains a particular knowledge that is essential to build the foundations of your frontend development skills.
+**CodeQuest** is made to provide participants an immersive, hands-on coding experience by guiding them through the creation of small projects. Every day of CodeQuest contains a particular knowledge that is essential to build the foundations of your web development skills.
 
-When we talk about UI/UX at CodeQuest, **we're switching gears a bit**. Instead of diving into complex coding, we're going hands-on with the creative side of things. Imagine using cool tools like Figma to shape how websites and apps look and feel—without getting into the nitty-gritty of code. These sessions are all about letting your creativity flow, refining designs, and understanding how to make things user-friendly. It's a chance to see how the visual and functional aspects come together in the digital world, creating awesome projects without the need for heavy coding!
+When we talk about **UI/UX at CodeQuest**, **we're switching gears a bit**. Instead of diving into complex coding, we're going hands-on with the creative side of things. Imagine using cool tools like Figma to shape how websites and apps look and feel—without getting into the nitty-gritty of code. These sessions are all about letting your creativity flow, refining designs, and understanding how to make things user-friendly. It's a chance to see how the visual and functional aspects come together in the digital world, creating awesome projects without the need for heavy coding!
 
 We encourage you to share your progress in [📈┊codequest-progress](https://discord.com/channels/1106592546815225878/1175409781540925521) to serve as motivation for others and to open up discussions and reviews to gain further insights about a particular topic.
 

@@ -14,21 +14,21 @@ Low-fidelity wireframes are like rough sketches of your digital product. They're
 
 Think of it as a quick doodle that captures the main ideas without getting into specifics. These wireframes are perfect for early brainstorming sessions, helping you explore different concepts without investing too much time or effort.<br>
 
-<img src="https://github.com/xialuna/30-Days-of-UI-UX/assets/95476379/e112a6b9-837a-4505-88f4-8b45d3d6fea3" width="500px"/><br>
+<img src="../../assets/tutorials/Day7-pic1.png" width="500px"/><br>
 
 **Mid-Fidelity Wireframes (Mid-Fi)**<br>
 Moving up the fidelity ladder, mid-fidelity wireframes add more detail to the structure. They're like a more polished draft of your digital design, including basic elements like buttons, text, and images.
 
 While not as refined as the final product, mid-fidelity wireframes give a clearer picture of the user interface and interaction flow. They strike a balance between speed and detail, allowing you to iterate on your design before diving into the nitty-gritty details.<br>
 
-<img src="https://github.com/xialuna/30-Days-of-UI-UX/assets/95476379/755c22e2-eeba-4827-9acd-0571f00d0c33" width="500px"/><br>
+<img src="../../assets/tutorials/Day7-pic2.png" width="500px"/><br>
 
 **High Fidelity Wireframes (Hi-Fi)**<br>
 High-fidelity wireframes are the most detailed and refined version of your design before the actual development phase. They include precise details on colors, fonts, and interactive elements, closely resembling the final product.
 
 These provides a realistic preview of how the user interface will look and function. High-fidelity wireframes are useful for getting stakeholder approval, conducting user testing, and guiding developers during implementation. They are like the polished blueprint that ensures everyone is on the same page before turning your design into reality.<br>
 
-<img src="https://github.com/xialuna/30-Days-of-UI-UX/assets/95476379/d78cee6f-494e-4d27-bac5-fd21e1f42041" width="500px"/><br><br>
+<img src="../../assets/tutorials/Day7-pic3.png" width="500px"/><br><br>
 
 ## About the challenge:
 
@@ -50,7 +50,7 @@ Choose your favorite social media application/website. Decide what section you w
 1. Visit <a href="https://www.figma.com/community/file/1307223761496070401/week-1-low-fidelity-layout" target="_blank">Week 1 [Day 7]: Low-Fidelity Layout</a> and click on [**Open in Figma**].
     - Note: Right click and open it in a new tab
         <p>
-        <a href="https://www.figma.com/community/file/1307223761496070401/week-1-low-fidelity-layout" target="\_blank"><img src="https://github.com/xialuna/AWSCC-CodeQuest-UI-UX/assets/115876263/4ed44175-29ed-4d18-b842-cfde0e50eef1" height="400" alt="Image Cover"/></a>
+        <a href="https://www.figma.com/community/file/1307223761496070401/week-1-low-fidelity-layout" target="\_blank"><img src="../../assets/thumbnails/Day7.png" height="400" alt="Image Cover"/></a>
         </p>
 2. In the Figma file, take a look at the sample lo-fi wireframe clone.
 3. Watch the provided video: _(If you need guidance)_

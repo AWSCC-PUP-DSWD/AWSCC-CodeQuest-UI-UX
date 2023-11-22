@@ -39,15 +39,15 @@ Today, your task is to conduct a Competitor Analysis to gain insights into the s
 ### 📋 Instructions
 
 1. Go to your figma homepage and check recents, find the file for **Week 2 [day 8 - 11] : Activities** <br/> <br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/xialuna/30-Days-of-UI-UX/assets/115876263/3ab62a8e-af79-49d2-9aed-b20fb8be0274" alt="Instruction"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../../assets/tutorials/Day9-11-instruc-step1.png" alt="Instruction"/>
    <br/>
 
-2. Check they day you're in in the pages section
-   Today is **Day 10**, so make sure you're on day 10 page section in figma
+2. Check the day you're in in the pages section. Today is **Day 10**, so make sure you're on day 10 page section in figma.<br/> <br/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../../assets/tutorials/Day10-instruc-step3.png" alt="Instruction"/>
    
 ## Show off your work!</h3>
 
-Submit your work here _(just paste the link of the figma file you've made)_ : <a href="../../submissions/exercises/day08-11.md" target="_blank">../../submissions/exercises/day08-11.md</a>
+Submit your work here _(just paste the link of the figma file you've made)_: <a href="../../submissions/exercises/day08-11.md" target="_blank">../../submissions/exercises/day08-11.md</a>
 
 ## Resources
 >[**Guide to Competitor's Analysis**](https://usabilitygeek.com/how-to-do-ux-competitor-analysis/)
